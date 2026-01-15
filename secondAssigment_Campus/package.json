@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lil-gui": "^0.21.0",
     "three": "^0.180.0"
   }
 }
