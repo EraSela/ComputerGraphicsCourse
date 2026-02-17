@@ -1,0 +1,13 @@
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Optional large folders
+videos/
+scans/
