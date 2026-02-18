@@ -11,3 +11,9 @@ dist/
 # Optional large folders
 videos/
 scans/
+# Blender + backups
+*.blend
+*.blend1
+
+# Zips
+*.zip
